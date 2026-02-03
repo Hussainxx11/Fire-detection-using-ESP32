@@ -32,3 +32,5 @@ The system works in three main stages:
 - Add a temperature sensor (e.g., DS18B20) as an additional feature
 - Deploy the trained model on ESP32 for real-time detection
 - Implement real-time alerts and notificatons
+# LinkedIn Link
+[https://www.linkedin.com/in/hussain-almasabi-37315a244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtUEcboraSEeqhYdSOOl8bg%3D%3D]
